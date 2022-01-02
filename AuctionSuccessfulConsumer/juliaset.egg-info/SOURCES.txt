@@ -1,0 +1,7 @@
+README.md
+setup.py
+juliaset.egg-info/PKG-INFO
+juliaset.egg-info/SOURCES.txt
+juliaset.egg-info/dependency_links.txt
+juliaset.egg-info/requires.txt
+juliaset.egg-info/top_level.txt

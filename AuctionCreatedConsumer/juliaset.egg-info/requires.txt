@@ -1,0 +1,4 @@
+apache-beam[gcp]==2.34.0
+google-cloud-bigquery-storage==2.10.1
+requests==2.26.0
+web3==5.25.0
